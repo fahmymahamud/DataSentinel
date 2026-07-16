@@ -13,6 +13,10 @@ DataSentinel is an autonomous, agent-based data auditing pipeline designed to au
 * `agent.py`: The worker agent logic that utilizes the MCP tools to perform audits.
 * `Dockerfile`: Containerizes the entire project for seamless deployment to cloud environments (Azure/GCP/AWS).
 
+![Agent](https://github.com/fahmymahamud/DataSentinel/blob/main/agent.jpg)
+
+![Server](https://github.com/fahmymahamud/DataSentinel/blob/main/server.jpg)
+
 ## 🔗 Submission Links
 * **Demo Video:** [https://www.youtube.com/watch?v=I2bmMyplGug]
 
