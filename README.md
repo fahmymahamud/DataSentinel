@@ -17,6 +17,8 @@ DataSentinel is an autonomous, agent-based data auditing pipeline designed to au
 
 ![Server](https://github.com/fahmymahamud/DataSentinel/blob/main/server.jpg)
 
+![Dockerfile](https://github.com/fahmymahamud/DataSentinel/blob/main/dockerfile.jpg)
+
 ## 🔗 Submission Links
 * **Demo Video:** [https://www.youtube.com/watch?v=I2bmMyplGug]
 
